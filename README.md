@@ -5,8 +5,9 @@
 ## Django Common Issues with High Quality Answers
 
 [Django Upload Error | Stack Overflow](https://stackoverflow.com/questions/5517950/django-media-url-and-media-root)  
-[Django Scalability | Stack Overflow](https://stackoverflow.com/questions/886221/does-django-scale)     
-[Django Delete Model with File | Stack Overflow](https://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example)  
+[Django Scalability | Stack Overflow](https://stackoverflow.com/questions/886221/does-django-scale)  
+[Django Delete Model with File | Stack Overflow](https://stackoverflow.com/questions/5372934/how-do-i-get-django-admin-to-delete-files-when-i-remove-an-object-from-the-datab?noredirect=1&lq=1)
+[Django Delete Model with File 2 | Stack Overflow](https://stackoverflow.com/questions/5871730/need-a-minimal-django-file-upload-example)  
 
 ## Contributing to Issues
 
